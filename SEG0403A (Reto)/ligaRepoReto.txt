@@ -1,0 +1,8 @@
+Edgar Castillo Ramírez A00827826
+
+Inteligencia artificial avanzada para la ciencia de datos I (Gpo 102)
+
+Liga al repositorio de GitHub para la entrega de Reto:
+
+https://github.com/EdgarCastilloRm/TitanicML-Equipo-4
+
